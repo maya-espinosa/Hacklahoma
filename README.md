@@ -52,17 +52,3 @@ You can customize the calendar options and events by modifying the `calendar_opt
 ## Acknowledgements
 
 Thank you Hacklahoma! - Gaurav, Maya, Simon, and Houston
-
-## How to run it on your own machine
-
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
